@@ -1,1 +1,3 @@
 Example Pattern: AKIAIOSFODNN7EXAMPLE
+
+Sample AWS Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
