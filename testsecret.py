@@ -1,0 +1,1 @@
+Example Pattern: AKIAIOSFODNN7EXAMPLE
